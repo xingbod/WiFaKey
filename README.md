@@ -14,3 +14,9 @@ modelname = embeddings_adaface_ir101_webface12m, or other feature files.
 --- 
 
 Let me know if you'd like any further adjustments!
+
+
+For embeddings, please download from here:
+
+通过网盘分享的文件：人脸生物特征数据LDPC
+链接: https://pan.baidu.com/s/1AWZPmyfr8eJVfgzJMmsfHw?pwd=uuit 提取码: uuit
